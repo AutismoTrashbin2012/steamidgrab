@@ -1,3 +1,7 @@
+what it do?
+
+it grab all steamids from a public steam profile
+
 how to use premium grabber:
 
 1. make sure your shit public fr :pray:
