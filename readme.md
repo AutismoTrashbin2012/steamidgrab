@@ -1,6 +1,6 @@
 what it do?
 
-it grab all steamids from a public steam profile
+it grab all owned appids from a public steam profile
 
 how to use premium grabber:
 
